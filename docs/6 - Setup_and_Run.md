@@ -102,9 +102,15 @@ Open a new terminal, then run:
 cd askcrack-project
 flet run # flet run --android if you want to run it on Flet mobile
 ```
+Or you can build the application using:
+```bash
+flet build exe # flet build apk for android
+```
 
 ---
 
-## Running the Application
+## Application Run
 In order to access the main features of the application, you must first undergo a series of authentications for the user's security.
- 
+
+#### Account Creation
+

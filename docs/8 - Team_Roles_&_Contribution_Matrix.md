@@ -15,4 +15,3 @@
 | UI Design | ✔ | ✔ | ✔ | 
 | Navigation/Logic | ✔ | ✔ | ✔ | 
 | Documentation | ✔ |  |  | 
-| Emerging Tech Integration |  |  |  |
