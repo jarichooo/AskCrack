@@ -1,6 +1,6 @@
 # User Guide
 
-This document provides a guide for the user for the program setup and app interaction.
+This document provides a guide for the user for the program setup.
 
 
 ---
@@ -106,11 +106,4 @@ Or you can build the application using:
 ```bash
 flet build exe # flet build apk for android
 ```
-
----
-
-## Application Run
-In order to access the main features of the application, you must first undergo a series of authentications for the user's security.
-
-#### Account Creation
 
